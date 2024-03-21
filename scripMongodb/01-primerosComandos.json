@@ -1,0 +1,33 @@
+show dbs
+
+use db1
+
+db.createCollection()
+
+use db1
+
+show collection
+
+db.empleado.insertOne({nonbre: "Ramon",
+                       edad: 23,})
+
+db.empleado.find()
+
+db.empleado.find({})
+
+db.dropDatabase()
+
+db.empleado.insertMany( [ { 
+    nombre: "Meregirldo", edad: 67 } ,
+    {
+     nombre:
+    
+     "asx",
+     edad: 212},
+     {
+     nombre: "marlo",
+     edad: 23
+     }
+     ]
+     )
+    

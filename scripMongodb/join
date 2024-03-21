@@ -1,0 +1,2 @@
+Select C.idcategoria, c.descripcion, p.idproducto P.precio p.exitencia From Categoria as  C INNER JOIN Productos as P on C idcategoria = p.Categoria
+select C.idcategoria, Producto as p
