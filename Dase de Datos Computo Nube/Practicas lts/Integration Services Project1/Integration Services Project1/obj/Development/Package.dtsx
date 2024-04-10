@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/8/2024 12:32:58 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="CENTENO"
+  DTS:CreatorName="CENTENO\pumit"
+  DTS:DTSID="{B6D21550-294F-457F-9524-5A8CA39B33D3}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5397.1"
+  DTS:LocaleID="2058"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{8CD75C43-7C77-4EA1-9D46-7BB3B8F6FAFE}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
